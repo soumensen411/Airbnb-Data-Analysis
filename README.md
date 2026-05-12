@@ -169,22 +169,4 @@ This project demonstrates:
 - Statistical analysis methods
 - Business intelligence insights from real-world data
 
-## 📧 Contact
-
-For questions or feedback about this analysis, please contact the project maintainer:
-- **GitHub:** [soumensen411](https://github.com/soumensen411)
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-- Airbnb dataset for providing comprehensive listing data
-- Google Colab for cloud-based computing resources
-- The open-source Python data science community
-
----
-
-**Last Updated:** May 12, 2026
-
+##
